@@ -13,7 +13,7 @@ Work done on it other than the tutorial:-
 - Added a Resume Button (Where you can put a link to your resume).
 - Enhanced Visibility and solved Responsive UI Problems.
 
-This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
+This Project is hosted in Netlify : [3D Portfolio](https://687bf046dfc97a0008b4d739--zain3dportfolio.netlify.app/)
 
 ## :star: Give A Star
 
