@@ -4,7 +4,7 @@
   <img width="1909" height="921" alt="Image" src="https://github.com/user-attachments/assets/43528708-3738-4954-9336-35c3bb36829f" />
 </p>
 
-This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
+This is my second project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
 
 Work done on it other than the tutorial:-
 - Removed unused CSS.
@@ -23,18 +23,13 @@ You can also give this repository a star to show more people and they can use th
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
-Before you start, make sure you have the following software installed on your computer:
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
 
 ## ℹ️ How to use this Repository?
 
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/Project_3DPortfolio.git
+  git clone [https://github.com/ZainAhmed9/Portfolio-website.git]
 
 ```
 2. Navigate to the project directory
@@ -67,24 +62,13 @@ Specializations:
 - UI/UX Design.
 - Web Development
 
-## 🙋‍♂️ Connect With Me
-
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
 
 ## 🗒️ Authors
-- Om Patel
+- Zain Ahmed
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <a href="https://github.com/omunite215">
+    <a href="https://github.com/ZainAhmed9">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/omunite215/Project_3DPortfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
 </p>
